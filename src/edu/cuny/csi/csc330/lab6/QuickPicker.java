@@ -21,9 +21,9 @@ public class QuickPicker {
 	public final static int DEFAULT_GAME_COUNT = 1;
 	private static int GAME_COUNT = 1;
 	private static String GAME_NAME = "LOTTO";
-	private static int SELECTION_POOL_SIZE = 59;
+	private static int SELECTION_POOL_SIZE = 0;
 	private static int SELECTION_POOL_SIZE2 = 0;
-	private static int SELECTION_COUNT = 6;
+	private static int SELECTION_COUNT = 0;
 	private static int SELECTION_COUNT2 = 0;
 	private static String VENDOR = "Dan's Deli";
 	private int lottoArray[][] = new int[GAME_COUNT][SELECTION_COUNT];

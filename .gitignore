@@ -35,3 +35,52 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+.classpath
+.idea/
+.project
+.settings/
+        CSI-CSC330.iml
+        bin/
+        src/Cash4Life.properties
+        src/DSN.properties
+        src/Employee.hbm.xml
+        src/Example.properties
+        src/Pick10.properties
+        src/PropertyBundleDemo.properties
+        src/RadioScript.txt
+        src/SampleFactory.properties
+        src/Student.hbm.xml
+        src/SweetMillion.properties
+        src/TRACKS.properties
+        src/applet1.html
+        src/csc330/
+        src/csc330Game.properties
+        src/edu/cuny/csi/csc330/asserts/
+        src/edu/cuny/csi/csc330/blackjack/
+        src/edu/cuny/csi/csc330/calc/
+        src/edu/cuny/csi/csc330/ccvalidation/
+        src/edu/cuny/csi/csc330/collections/
+        src/edu/cuny/csi/csc330/enums/
+        src/edu/cuny/csi/csc330/examples/
+        src/edu/cuny/csi/csc330/examples2/
+        src/edu/cuny/csi/csc330/geometric/
+        src/edu/cuny/csi/csc330/gui/
+        src/edu/cuny/csi/csc330/interfaces/
+        src/edu/cuny/csi/csc330/io/
+        src/edu/cuny/csi/csc330/jdbc/
+        src/edu/cuny/csi/csc330/mvc/
+        src/edu/cuny/csi/csc330/net/
+        src/edu/cuny/csi/csc330/newradio/
+        src/edu/cuny/csi/csc330/patterns/
+        src/edu/cuny/csi/csc330/radio/
+        src/edu/cuny/csi/csc330/recursion/
+        src/edu/cuny/csi/csc330/regex/
+        src/edu/cuny/csi/csc330/scratch/
+        src/edu/cuny/csi/csc330/stats/
+        src/edu/cuny/csi/csc330/swing/
+        src/edu/cuny/csi/csc330/threads/
+        src/edu/cuny/csi/csc330/tmp/
+        src/edu/cuny/csi/csc330/util/
+        src/hibernate.cfg.xml
+        src/poke.gif
