@@ -3,7 +3,7 @@ package edu.cuny.csi.csc330.lab1;
 /**
  * Generates a unicode textual chessboard 
  * Reference:  https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode 
- * @author lji
+ * @author Daniel Targonski
  *
  */
 public class ChessBoard {
